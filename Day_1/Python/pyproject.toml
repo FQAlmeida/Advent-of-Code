@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "aoc-day1-python"
+version = "0.1.0"
+description = ""
+authors = ["Otavio FQA Almeida"]
+license = "MIT"
+readme = "README.md"
+packages = [{include="aoc-day1-python"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
