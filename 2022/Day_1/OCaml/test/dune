@@ -1,0 +1,3 @@
+(test
+ (name aoc_day1)
+ (libraries day_test))

@@ -1,0 +1,1001 @@
+51 ['5', 'five', 'two', 'three', '1'] sq5fivetwothree1
+65 ['six', '5'] six5gc
+35 ['3', 'four', 'one', '1', 'five'] txb3qfzsbzbxlzslfourone1vqxgfive
+33 ['3', 'one', 'three'] 3onethreebrth
+75 ['seven', '7', 'five'] cseven7nqqxnkzngndtddfiverkxkxqjjsr
+24 ['2', '4'] 2lvpmzh4
+35 ['three', '1', '5'] threeqxqndvjrz15
+34 ['three', 'two', '1', 'six', 'two', 'four'] threetwo1drtzsixtwofourppvg
+76 ['seven', '2', '3', '8', '6'] zxhsndseven2vbnhdtfpr3bt86
+15 ['one', 'three', '7', 'eight', 'nine', '5'] onethreelqqqqvj7eightnine5
+79 ['7', 'seven', 'four', '5', 'nine'] 7sevenfour5gnine
+15 ['1', 'seven', '5'] 1seven5
+73 ['7', '3'] vgxhqfrvr7vfsxqms3
+22 ['two', '8', '7', 'two'] twokdkcbhtqxfc87rkgctwo
+24 ['two', 'six', '9', 'three', 'four'] twosix9threernltgbffour
+54 ['5', '4'] npvzzqfb5tbbn4cnt
+52 ['5', '1', 'two'] jjxlckssjmdkm5szklnq1two
+71 ['seven', '5', '3', '2', '5', '1'] lblcscglvseven53251zzcj
+31 ['three', 'seven', '1'] threesevenzplpzlqb1
+32 ['three', 'eight', '2'] threeeightxhrkflkbzp2
+12 ['one', '1', '9', 'two'] honemkmbfbnlhtbq19twonekbp
+26 ['two', 'eight', '7', 'eight', 'one', 'one', '6'] vdttwoeight7eightoneone6vq
+83 ['eight', 'four', '3'] eightvszlvntpfourjqcgmjr3
+76 ['7', '1', 'two', 'six'] dslqnmd7k1twogbvhhnfmtsix
+28 ['two', '7', '3', '6', 'eight'] twocsnn7jslpsppxmjr36eightss
+72 ['7', 'eight', '7', '4', 'two', '2'] 7eightrdcz74twolvd2cctg
+42 ['4', 'three', '4', 'two', '2'] 4threerrqxpmmzhrqht4two2
+22 ['2', 'seven', '9', 'two'] 2seven9two
+49 ['4', '7', '9'] 479
+36 ['three', 'four', '8', '6'] threefour86
+51 ['5', '1'] 5klxgb1
+35 ['three', 'eight', 'six', '8', '2', 'five'] dchrpzkfpgqzgjmpdcthreeeightsix82five
+75 ['seven', '5'] seven5tcls
+68 ['six', '5', 'three', '2', 'six', '8', '8', '8'] six5three2six888zd
+74 ['7', '5', 'nine', '2', '7', '4'] 75nine274sbzd
+77 ['seven', '7', '6', '9', '1', '7', 'seven'] seven7691dzflbg7seven
+91 ['9', '5', '4', '1'] bjtrrvpx954lxr1qlqdvbldpt
+34 ['three', '4'] zthree4
+68 ['six', 'four', 'four', '6', '8'] sixfourfour68
+49 ['four', 'six', 'two', '9'] fourrjgvksixtwongbvkpff9
+32 ['3', 'seven', 'two'] 3seventwo
+75 ['seven', 'one', '9', 'three', '5'] bzqqjtqvfssevenonenqzctcgbch9three5
+43 ['4', 'four', 'seven', 'three'] 4fourseventhreeck
+52 ['5', '2'] mx5njh2
+15 ['1', 'one', '5'] 1onebqkdcbmvrknghnn5frdjtrq
+15 ['one', '1', 'nine', '9', '5', '7', 'five'] one1nineflfp957vkdgfrjtfive
+78 ['7', 'eight', '7', 'five', 'eight'] 7eight7fiveeight
+33 ['3', '1', '3'] zzxrsrp313
+14 ['1', 'six', '4'] 1sixcksrxn4
+29 ['two', '5', 'nine'] ggqvtwofrrfdhbsdfdpzpbjjckbrg5ninebqszf
+27 ['2', '6', 'seven'] pxjcgc2ggqscglhjpbpr6seven
+65 ['six', 'six', '7', 'two', 'five'] sixsix7twofivexgdm
+43 ['four', '4', 'eight', 'seven', 'seven', 'five', 'six', '3'] four4eightseventjsqlbhrzvsevenfivesix3
+28 ['two', 'two', '8'] twotwo8chjmb
+88 ['eight', '8'] dknnleightmmmmrmcrnr8
+26 ['two', '3', '8', '3', '6'] twogzdgdqhrs3836
+96 ['nine', '6', 'five', '6'] ninebsztzhbqjvlbvhdktqjc6hpqcksfive6
+22 ['two', 'five', '1', '4', 'one', 'one', '2', 'two'] twofive1nqdxdvvtvf4oneone2two
+18 ['1', 'eight', '8'] 1eight8nkmhcfvzn
+44 ['4', '9', '5', 'seven', '4'] dzmkzzx4lfljtzp95seven4qqnpjdtr
+19 ['one', '7', 'seven', 'nine'] one7sevenninepsdgrjkxgdchjtxrx
+37 ['3', '1', '4', 'nine', '7'] fnltdcxqln314nine7n
+34 ['three', '7', 'four', 'five', 'seven', '4'] three7sjgtnxgtllnpndfourfiveseven4
+67 ['6', '4', 'nine', '7'] 64snine7
+52 ['five', 'five', '5', '9', '2'] ppjlpsnsbmthfivelffive59hsnmn2
+76 ['seven', '6'] sevenqftktpnj6
+94 ['nine', 'three', '3', 'four'] ninethreetbgprvchxlnmfs3fourhmcz
+11 ['1'] xhl1
+44 ['4'] 4qgf
+14 ['1', 'five', 'four'] 1qbhrmfcffivedgtfour
+87 ['eight', '8', '6', 'one', '7'] eight86bcqskslkvlgone7gg
+66 ['6', '8', '6'] 6pccldrtmsdbbrcbcq86
+61 ['six', '9', '4', '1', '1'] ppzrxtsix94jplxff11
+76 ['7', '8', '6', 'seven', 'two', 'one', 'six'] 786seventwoonezvnqrsix
+77 ['7', 'three', 'seven'] 7threeseventsjcdr
+59 ['five', 'five', '3', 'nine'] fivebfive3nineffcbzprh
+44 ['4'] 4glxskdkjn
+88 ['8'] n8
+49 ['4', '9'] kzcvdtbq49
+73 ['7', 'nine', '9', '3'] 7xvqxmhcfkkffnine93
+29 ['two', 'six', 'eight', 'one', '9'] hhzmdnzktbtwojvlckvjsixeightone9rxqb
+18 ['one', '3', '8'] one3sqckgps8
+88 ['8', 'eight', 'eight', 'eight'] lscdfp8eightcgdvgssveightdldsreight
+21 ['two', 'eight', '1', 'one'] jhjsltwoeight1one
+63 ['6', '3', 'three'] 6trxnfcqdmlrmf3three
+14 ['one', '1', 'four'] one1kdclsglmsjmczsksdfour
+73 ['seven', 'seven', '8', 'three'] sevensevenshlhsvtl8three
+44 ['four', '5', '2', '2', 'seven', 'four'] four522sevenfourcrthhhvkj
+18 ['1', '9', '7', '8'] 197stxphm8
+85 ['8', 'six', 'two', 'seven', '6', 'five'] 8sixtwoseven6five
+96 ['nine', '6'] zjdhldjcqctkltggninesl6stplglmkn
+66 ['6', 'one', 'six'] 6onesixrhmjvtcmbh
+53 ['five', '8', 'nine', 'four', 'five', '3'] fivehnj8dninefourfive3
+43 ['4', 'four', '7', '3'] 4fourfncsrhf73
+11 ['one', 'six', '3', 'one'] nbcjqhlckonemdbcsvfsixvm3one
+77 ['7', 'seven', '6', 'seven'] 7seven6seven
+49 ['four', 'five', '6', 'four', '9'] fournfive6four9
+62 ['6', 'four', 'eight', '6', 'one', 'two'] 6brzhdxzmtxfoureightxg6onetwo
+54 ['5', 'six', '4'] 5sixmmddqgpdnq4
+66 ['6'] 6ndzzhlrdjxjqfxvss
+12 ['one', '2', '9', 'two'] gkvoneight29two
+43 ['4', 'three', 'three'] 4threethree
+89 ['eight', '8', 'five', 'nine', 'two', '9'] eightsznbxf8fiveninetwo9vgfbv
+84 ['8', '7', '9', 'four'] 8kzkmqncfhssjblmfd7hdmpkghsz9mmbsbjdxdlfmnxfour
+49 ['four', '2', 'three', 'eight', '1', '9'] four2threeeight19bx
+17 ['1', 'one', 'seven'] 1oneseven
+55 ['5'] fh5
+65 ['6', '1', '5'] 615zkzg
+23 ['2', '5', 'six', '2', 'three'] 25six2mrtjthree
+39 ['3', 'seven', '7', '3', '8', 'nine'] jvvmbfzr3seven7xjbhvvvhlz38ninejk
+57 ['5', 'six', '3', 'seven'] vzjthjkrcc5six3rrnrseven
+37 ['three', '3', 'four', '7'] rjthree3szfourbnvnbh7hgjzcrhfptmlghkk
+39 ['3', '9', 'seven', '3', '9'] tgjtdsnqrq39seven3hgqc9
+19 ['1', 'four', '9'] 1vttzfour9
+69 ['6', '2', '1', '3', 'six', '9'] 6vbtcqmpk213sixzmjcnxn9qhdgr
+35 ['3', 'four', '5'] 3sffvspzmxjjfourjxjbbdfj5
+97 ['9', '1', '7'] bdhj9lz1np7tvmfvptffhfdtbxld
+93 ['9', '9', 'one', 'two', 'seven', '3'] kbkxldln99onetwoseven3
+32 ['three', '9', 'seven', '4', 'seven', 'two'] rvsthree9seven4seventwo
+32 ['3', '2'] 32zbjmhr
+81 ['eight', '4', 'one'] eightfffkdgjqspgzmkvzxpls4one
+38 ['three', '1', '2', '1', 'nine', 'eight'] three1kxqr21ninemhrmheightwoc
+84 ['8', '4'] fqjvtsph8zpghgdbxrg4
+37 ['3', '9', '8', 'seven'] 398seven
+96 ['nine', '1', 'two', '5', '7', '5', '6'] bnine1two5756
+77 ['7', '2', '7', '7'] 7xkqkxjjvmd2n77
+92 ['9', 'seven', '7', '9', 'four', 'two'] 9seven79foursxdqcvttwo
+66 ['6', '6', 'six'] 6d6zfxcmrzsixgmlqnfdn
+84 ['eight', '9', '4'] kfhreightfnhcxpcrz9hqrqtmknpjxrt4hrk
+77 ['seven', 'three', 'one', 'one', '4', '3', '7'] seventhreeoneone4nngnlz37
+82 ['8', '8', 'two'] fphhxfs8jzkchp8twotjznmlxhht
+44 ['4', '7', '4'] 474
+52 ['5', '8', 'eight', 'two'] 58eightnzxfgndgdvbvphzsqxqcffdqsvxtwo
+33 ['3', 'two', '5', 'three'] 3two5xvjjthreetmszrldjlknq
+17 ['1', 'nine', '7'] 1nine7
+24 ['2', '9', 'nine', '4'] 29kfrrdxvrmgjvfpqjcqlplfhrxpklzcrvndmdhjhninejhmph4
+39 ['3', '9'] fzbq39bs
+85 ['8', '5', 'eight', '2', '9', 'five', 'six', 'five'] 85eight29fiveccsrvsixfive
+79 ['seven', '2', '8', 'nine', 'six', 'nine'] sggksrnseven28ninesixnine
+64 ['six', 'nine', '4'] bggkmnrbjknxqfgttxsixnine4
+75 ['7', '3', 'five'] 73nfive
+55 ['five', 'four', 'seven', 'nine', '5'] fivefourgscsevencntfpzzrnineprdjqdbmq5
+69 ['6', 'four', '2', 'one', 'eight', '9'] 6four2oneeightljstfshztx9
+76 ['seven', '6'] sevenzkdqst6jncvcblb
+65 ['six', '5'] dxrnzlsix5
+24 ['two', '1', '4', 'four'] two1tmhmg4four
+25 ['2', '5', 'three', 'four', 'three', 'six', 'five'] 2mzfnc5threefourthreesixfivezq
+82 ['eight', '3', '2'] jeightwo3jfzqdtjzschpzrj2
+57 ['5', '7'] 5ccchkjzvqh7
+38 ['3', 'five', '4', '8'] jdpnjqg3five48xmmptkzmvg
+16 ['1', '4', '6', 'nine', 'seven', '4', 'six'] rgn146nineseven4six
+84 ['eight', 'one', 'two', '8', 'six', '9', '4'] eightonetwohsxms8six94
+84 ['eight', '4'] eight4znfqgsftghtrhfkvj
+58 ['5', '8', '3', '4', 'eight', '8'] btmk5834eight8mlcccnrzrb
+19 ['1', '5', 'nine'] 15ninemhmhmqlb
+84 ['8', '5', '7', '4'] 85skmrvhl74
+44 ['4'] dbvhkthj4
+18 ['one', '6', 'eight'] one6keight
+65 ['six', 'four', 'two', 'seven', 'nine', '7', '8', 'five'] sixfourtwosevennine7tfrqgk8five
+71 ['seven', '1', '1'] seven1kxcqbm1
+54 ['5', '6', '2', '7', 'four'] tmpl56rz27qfdfour
+35 ['3', 'eight', 'five'] 3eightggcjbnktmbqfivefdmczl
+24 ['2', 'three', 'three', 'four'] b2threethreemnxdhrzsxqhchzbnvhppdcqcffour
+47 ['4', '3', 'four', '7'] htpgc4blggnnzts3four7
+86 ['8', 'six', '3', '3', 'six'] 8sixbdntsg33njhtnsnsix
+46 ['four', 'four', '5', 'seven', '3', 'three', 'seven', 'six'] fourfour5seven3threesevensix
+71 ['7', '8', 'eight', 'seven', 'one'] 78eightsevenone
+45 ['four', '5', 'three', 'five'] four5threefive
+26 ['2', 'six'] cjqbcfjnbf2six
+55 ['five', '9', 'nine', 'six', 'one', 'five'] five9ninesixonejdnsvcfive
+98 ['9', '3', 'eight'] rvrf9cjl3eightfvrzpjnxr
+35 ['three', 'seven', '5'] threeseven5
+26 ['two', '9', 'two', 'five', 'six'] vxvmpkffrtwo9twofivesix
+69 ['6', '7', '9'] 67xnrcxsp9rk
+77 ['7', '7'] mvzdgqgrv77
+12 ['one', '4', '2'] one42qkfp
+11 ['1'] 1vtq
+28 ['2', '2', '5', 'eight'] 225eightworbm
+35 ['three', '9', 'one', 'five'] three9onefive
+12 ['one', 'eight', '3', 'one', 'eight', '2'] qxoneighteightzxlfksc3oneeight2
+64 ['6', 'six', '7', '4', '4'] mnqjhg6ffbhzcsixtrbfr744zlg
+87 ['8', 'nine', '7'] 8nine7
+57 ['five', '2', 'seven'] fivergqn2seven
+46 ['4', '4', '6', 'nine', '6'] 44gpslt6nine6
+17 ['1', 'six', '9', '8', 'two', 'seven'] 1six98fsgthctwoseven
+61 ['6', 'six', 'one'] ldrqsbjrtnlj6lqgptgplbsnhrhpsixzqgpzkxone
+71 ['7', 'one'] 7knxhcfjvshqsxsqrponeightld
+61 ['six', 'four', '2', 'one'] zsixsjbltfournzndqbqd2rone
+34 ['three', '3', '2', '3', '4', 'nine', 'four', '4'] qpnvkqmdthree3234ninefour4
+26 ['2', 'two', '6', 'six'] cdnhqqxxp2two6six
+54 ['five', '9', '3', '5', '4'] five9354xnbjjx
+95 ['9', 'eight', 'six', '4', 'eight', '5'] 9eightsix4jjjeighttprrhqvqlt5
+12 ['one', '5', 'seven', 'two'] lkcfmvtonexklgknxxsglcd5znseventwo
+46 ['four', '3', '1', 'nine', '5', '6'] four31nine56pmh
+81 ['eight', '9', '6', '5', '2', 'nine', 'one'] eight96tb5t2nineoneightrlb
+44 ['four', '6', '9', '5', 'two', 'four'] fourncvgmslx695twobdklqzfour
+84 ['8', 'five', '7', '5', 'four'] 8fiveq75four
+51 ['5', 'six', '9', 'four', 'four', '5', '9', 'seven', '1'] 5six9fourfour59seven1
+81 ['eight', '2', 'five', '8', '1'] eight2bqtqdjsvkkjfive81vpkvmbpxcp
+46 ['four', 'one', 'five', '4', 'six'] nvxvgqhfouronefive4sixpqckgf
+22 ['2', '5', 'one', 'two', 'two'] 25onetwotwo
+79 ['seven', 'three', 'eight', '4', '9', '3', 'three', '9'] seventhreezkntcmjqeight493three9
+58 ['5', '8'] ptd58qrtfqj
+22 ['2', '9', '8', '5', 'one', '2'] 2985lvlvlrfzrjmfqbrmgtonejxtgpspjnx2
+66 ['6'] 6qbzxqvx
+37 ['three', '8', '1', '2', '8', 'seven'] three81btcngfkjj28seven
+38 ['3', '6', 'six', '8'] 36six8
+52 ['5', '2'] 5gzthcpffr2
+63 ['6', 'seven', 'three', '3', '3'] 6kqtntqrzxsgksevengnzthree33
+87 ['8', '7', 'one', '5', 'seven'] 87fmnvqpczzhone5seven
+92 ['nine', '2'] nine2cxpmrhp
+47 ['4', '6', '7', 'seven'] vt46xflbjdkkb7seven
+84 ['eight', 'three', 'three', '9', '8', 'four'] eightrgthreethree98fourhgcqjgzclc
+55 ['5', '4', '8', '4', 'two', 'three', 'five'] 5nfsbcvmfv484fxjtwothreefive
+43 ['4', 'three'] nhvcn4glfxtkfttthree
+61 ['6', 'five', '9', '7', 'one'] 6five9qznggpkflhzht7zhjjone
+74 ['7', '8', 'five', '4'] ddzghtvmp78five4gzfnnkc
+17 ['one', '9', 'two', '7'] sflvnzkrjtonenplrbkzxmt9fhfdzxrfjrtwomctkrlkhghfpcmkn7
+92 ['9', '6', 'three', '1', '1', '2'] sjxspdjhg96three112jz
+46 ['four', '2', 'two', 'seven', '6'] xdbgzlfour2twosevenzfdtvxq6
+26 ['2', 'five', 'six'] gdtnt2fivelscmsix
+93 ['9', 'three', 'three'] 9threefkjkrskxrcjsbthree
+93 ['nine', '3', 'two', 'three'] ninepmqbdmlkrmfhpgsz3twothree
+17 ['one', '5', 'seven'] onebgtdg5mqrfxvnfkseven
+65 ['6', '9', '4', '9', 'five'] 6m949fivezthrbbkqfd
+21 ['2', 'five', '9', '4', 'three', 'one'] 2five94threeone
+82 ['eight', '8', 'four', '4', '2'] eight8four42vb
+22 ['2', 'nine', 'two'] 2ninetwo
+19 ['1', '7', 'two', '9', 'nine'] 17two9nine
+35 ['3', 'six', 'four', 'one', 'three', 'six', 'five'] 3pdmsixfouronethreesixfiveb
+55 ['five', '1', 'two', '5'] five1two5
+94 ['nine', '4', 'four'] nine4four
+35 ['three', '5'] three5lktjmlnbph
+81 ['eight', '6', 'one', 'seven', '1'] eight6onelrdlsevenj1zmmbtjrd
+92 ['nine', '2', 'two', 'two'] tkjhgvnpkvgsqzjrnine2hltwotwo
+87 ['8', '9', 'seven'] 89xfpxgdlcpznxxfnpbzbzseven
+24 ['2', '9', '3', 'three', '7', 'four', '9', '4'] 293threej7four94
+63 ['6', '3'] v63
+65 ['6', 'six', 'five'] pxccbml6sixhqnhmrfive
+61 ['six', '4', 'four', 'one', 'six', '3', 'one'] kddsix4fouronevtrgbvtxxxsix3one
+53 ['5', 'three'] 5bxqjkdhthree
+62 ['six', '4', 'three', '2'] six4threezgg2
+49 ['four', 'two', 'eight', 'two', '9', '9'] fourtwoeightmftwo99
+78 ['7', 'nine', 'nine', 'eight', 'eight', '8'] t7ninenineeighteight8
+54 ['5', '4'] 5xvvlnqkjs4
+71 ['seven', '7', 'one'] seven7one
+72 ['7', 'three', 'seven', '4', '2'] vqfhpk7hnthreeseven42
+72 ['7', 'three', '2', 'two', '9', '2'] 7threef2two92
+29 ['2', 'one', 'four', '9'] 2onefourckbrvqzq9
+32 ['three', '2'] tvvdxrvthree2
+76 ['seven', '1', 'four', 'two', '1', '6'] seven1fourbvmfzftwortnjd16
+11 ['1', '3', '4', 'two', '1'] pmttpsggb134mlffcsnbftwox1
+25 ['2', 'four', '5'] 2dzpvqtcxjfour5pgppvbk
+99 ['9'] 9jfscbjzq
+55 ['five', 'nine', 'five', 'three', '5', 'one', 'five'] fiveninefivethreexdtgnbdfp5onefive
+67 ['six', '1', '9', '2', '7'] six1927
+16 ['one', '1', '1', '3', 'six'] one1xjjkvkkfk1zxxrjhkg3sixmhcgc
+75 ['7', 'five', '5'] 7fivetnncl5
+33 ['three', 'eight', 'four', 'five', '3'] zbqzdkkthreekzdcbhpveightfourfivemrmpzv3
+29 ['two', 'three', '5', '1', 'three', '2', 'nine'] twothree51three2phhmrnnhntnine
+38 ['three', '4', 'eight', '2', 'eight'] bfzzqmthtgthree4sjzkmtrnplbxeight2eighthj
+35 ['three', '5'] nqsflrlmlthreemdzztlghgj5xcj
+27 ['two', 'six', 'eight', '7'] fdtflsqrxltwohcvsnrndmsixeight7
+48 ['four', 'two', '2', '8'] fourbmlftwo2mzz8
+46 ['4', 'six'] pjjqzmsx4ksix
+61 ['six', '1', '2', '1', '9', 'one', '6', 'seven', '1'] six1219one6seven1
+31 ['3', '1'] gthznkpp31
+92 ['nine', '4', 'four', '3', '2'] nine4four32
+66 ['6'] xktzkqmmxct6fkhpkg
+13 ['one', '5', '6', '8', '8', 'seven', 'three'] one5688sevenvjjthreefsvxt
+39 ['3', '6', 'two', 'nine'] 36twonine
+35 ['3', '3', '5'] 3fpdqtzrd3tslzgkjzxd5
+72 ['seven', '9', '2', '2', '2'] bsevendpvtmnzl9cqgjfjbzfv222
+29 ['2', 'seven', '7', '9'] lxbhkf2nseven79
+84 ['eight', 'nine', 'eight', 'six', '4', '5', 'four'] gqckmfeightnknineeightsix45four
+78 ['7', '8'] n78
+46 ['4', '2', 'three', '4', 'three', 'six'] 42nggdthree4threefsxgjsixjdnqzkxdb
+13 ['1', '7', '4', '7', '3'] gbfbpjcjnzjrrqmm17473
+18 ['1', 'eight'] 1eightzqxxnq
+22 ['2', '5', 'two'] 25twovmnltzx
+78 ['seven', 'eight', '9', 'one', '1', '3', '8'] seveneight9qtcvzvmone138v
+65 ['six', 'four', 'seven', '8', '5'] msixjrqprlnqhdfourjdmsddzseven85
+82 ['eight', 'nine', '2'] eightninevvcp2
+66 ['6'] mtvvjsck6hgkjml
+13 ['1', '2', '1', 'three', 'three'] 121fthreethree
+36 ['3', 'eight', '6'] jncgfj3eightr6
+46 ['4', '6', '8', 'four', '6'] 468four6xdlrgngbhcxbtf
+31 ['3', 'one'] 3nqqgfone
+14 ['1', 'four', 'six', 'eight', '4'] 1zmzjqscfournzbssixeighthmspdbhlpc4
+26 ['two', 'one', '8', 'seven', 'four', 'seven', 'eight', 'six'] twoonejmkb8sevenfourseveneightsix
+16 ['one', '8', '8', 'seven', 'nine', 'six'] qxrznqone8z8sevenninesixsc
+61 ['6', 'three', 'one'] jrklnh6threeone
+28 ['2', '6', '5', 'six', 'eight'] 2xfnbrk6frzsvjhb5sixeight
+99 ['nine', 'three', '8', '9', '2', 'nine'] ninethree8lbpmqhsppd9fht2ninefql
+71 ['7', 'three', '7', 'one'] 7bzcnthreejdh7oneightj
+15 ['1', '5', '5', 'two', 'four', 'three', 'five'] 155twofourthreemfive
+59 ['5', 'nine'] 5ninerm
+96 ['9', 'four', 'six'] 9lxrfoursixm
+77 ['7'] glvxvsbsg7
+21 ['two', 'four', '1'] jbrbhzrsftwofour1
+27 ['two', '4', '4', '7'] two4hkxztgbbgf4ptckpggkbvvj7
+33 ['3'] vhqhqghjscvc3rcgttfv
+93 ['nine', 'two', '9', 'three'] ninetwo9threemhtsn
+66 ['6'] cnxzthgqz6pxfbsmkmm
+48 ['4', '5', '4', 'nine', 'two', '8', '8'] 45jgrr4ninetwo88
+35 ['three', 'eight', 'seven', '6', 'five'] dkhgscrthreeeightsevenhsxjhr6five
+67 ['6', 'nine', '7'] 6nine7vpfbvlvdvzvj
+12 ['one', '4', 'three', 'eight', '2'] goneg4threeeightslhlzkpqv2
+81 ['8', 'one'] sjqgqz8oneglvzn
+35 ['3', '2', 'eight', '5'] crj32neighttvv5
+66 ['6', 'three', '1', 'two', '4', '6'] blqptxbggl6three1two46cbdzt
+91 ['nine', '6', '1'] vpxnvxkgdmggpnine61
+22 ['2', '2'] 22kxn
+54 ['5', '4'] 5zvsmtzqjhhmfsvv4
+11 ['1'] dkfknfnjxtzjrbfk1
+61 ['6', '7', 'six', '6', '1'] 67sixzns61sdrpsmjsrftkdgjlb
+68 ['6', 'five', 'seven', 'seven', '8'] 6lnffcgtxfivesevenseven8
+19 ['1', 'one', '9', '6', 'nine'] px1one96slxflxdfxhninehkcszmdxzbbjmlq
+37 ['3', 'six', 'seven', 'seven', '7'] 3sixsevenseven7vlvdlcjhccvmlzcn
+56 ['5', 'seven', '6'] 5frrqhseventftbln6
+36 ['three', '2', '3', 'seven', '7', 'six'] three23seven7sixv
+99 ['nine', '9'] ninehscrb9
+58 ['five', 'seven', '1', '8'] fivepvsxqmnbmvgphsevencgkhsnqkz1rxvg8
+66 ['6', '9', '4', 'six', '6', '6'] pbhsqvdxhf694six66
+42 ['four', '2', 'nine', 'two'] four2nineczdtwobjxkfnkbg
+92 ['nine', '1', '6', '2'] nineml1jbnm6vhpsgmdq2
+33 ['three', '6', '3'] three63vgbm
+65 ['6', '6', '5'] 665
+77 ['7', 'eight', 'one', '7'] htd7pvmrpptvtneightnzmngone7
+89 ['eight', '7', '4', '8', '9'] rfeightgrfffksdfmgclspbp7489
+45 ['4', '6', '3', 'nine', 'five'] 4fdxcnbfjtbfg63ninefivegkmhgz
+29 ['2', '1', 'eight', '7', 'one', '3', '9'] 21eight7one39
+48 ['four', 'six', '8'] foursix8vrzhm
+28 ['two', '8', 'seven', 'eight'] two8sevendneight
+57 ['five', 'two', '9', '4', 'five', '7'] tncdggvfivekmbljttwo94fivetpstp7
+67 ['6', '8', 'seven'] 68seven
+11 ['one', '9', 'eight', 'one'] onenxh9eightone
+21 ['two', 'three', '3', 'three', 'nine', '4', 'one'] twothree3threenine4oneightzkr
+15 ['one', 'two', 'six', 'eight', '5'] onetwosixeightkfxnfnssd5
+88 ['eight', 'three', '6', '3', 'five', '8'] eightthree63five8
+61 ['6', 'seven', '7', 'one'] 6seven7one
+84 ['8', '4'] mqkkhbrjjm8v4
+82 ['8', 'six', '2'] 8six2
+33 ['three', 'one', 'three', '5', '3'] threetvbonethreeqmpkxjqlqgghqrlh5sbf3
+99 ['9'] blrnd9dkqgjf
+42 ['4', '1', 'one', '5', '2'] 41onervcmkgnpcbx52
+82 ['8', 'six', 'two', '4', 'nine', 'four', '2'] frmdcps8sixtwo4ninefbdjfour2
+89 ['8', 'nine', 'nine', 'nine'] 8nineninenine
+26 ['2', 'two', 'one', '6'] pkrln2dfrkkntwoonefjsfgx6
+49 ['four', 'four', 'four', '2', '9'] xvrkcmfxpfourfourrxcxqmhfour29ftsfd
+48 ['4', 'four', 'three', 'eight'] crkmrlrb4fourthreeeightcgk
+77 ['7', 'three', '4', 'eight', 'seven'] 7threemrss4eightsevenskjh
+83 ['eight', 'six', '3'] eightsixqppfhv3ztn
+35 ['3', 'three', 'eight', 'seven', '5'] 3threeeightseven5
+13 ['1', '2', 'three', 'eight', 'three'] gkrfhthr12threeeightthree
+81 ['8', '1'] 8vthczh1
+78 ['seven', '6', '9', 'eight'] seven6hfcfmrlkmqxpjq9eightlvlgqmf
+55 ['five', '8', '5', 'eight', 'seven', 'eight', 'five'] fivednzg85eightseveneightfive
+86 ['8', 'six'] dz8ssixkbbtgv
+86 ['eight', '6'] rdmjrcgeight6r
+56 ['five', '6', 'nine', 'one', 'six'] five6nineonesixrlnhj
+12 ['1', '2', '7', 'four', '7', 'two'] zh127four7two
+67 ['six', '1', 'seven'] six1sevenvmlnvkgcldsrrblfbrphrfsx
+57 ['5', '8', '4', 'six', '7'] m584sixkgng7bzzpzjzbfzqpgdcn
+28 ['2', 'two', '1', '8', '6', 'eight'] 2twozmvzzjbpdftm186eight
+23 ['two', 'nine', '3'] twoninekvspfvkbxtkc3
+47 ['four', 'five', '7', 'seven', '7'] fourrchgqkxfdzfccppqtpffhrtfive7seven7
+48 ['four', '4', '8', '3', 'eight'] four483eight
+37 ['three', '7'] threelqlc7
+97 ['nine', 'nine', '8', 'nine', 'seven'] xkgntdjninenine8brkjfsrttnineseven
+99 ['9'] 9zkds
+25 ['two', '5', '5'] twostmdvsbflvqbdgfs55
+21 ['two', '1'] twobnzn1czdfpns
+55 ['5', 'one', 'two', '5'] 5onetwo5
+88 ['8'] txsflrhgklnctfzrlgmplr8pdxl
+92 ['9', '3', 'four', '8', '8', '2'] 93four882mgqmqnsnx
+71 ['seven', 'nine', 'one', 'nine', '1'] sevenfxschslsncjgqsctnineonenine1
+99 ['9'] brb9
+79 ['7', 'five', '9'] 7five9
+35 ['three', '4', '2', '5'] three425
+14 ['one', '4', 'nine', 'four'] mkfone4ninefour
+77 ['7'] bkpdhbvq7
+44 ['4'] dhrlbjvcgqdtqjlk4zxzjpvdfm
+65 ['6', '7', 'three', 'five'] 67threefive
+99 ['nine', 'nine', 'three', '9'] nineninegvmlfthreevtndnb9
+33 ['3'] ttmznl3fjdcbch
+91 ['9', 'nine', 'one', '7', '6', '1'] fqsxkm9nineoneh761
+62 ['six', 'five', 'six', '2'] sixfivesixnjrtqdkqpc2xdhlrrmp
+86 ['eight', 'six', '7', '9', '3', 'six'] eightsix793nvdvbtxxksix
+53 ['5', 'eight', 'eight', '5', '1', '3'] 5veighteightgscktfbtd513
+55 ['5'] vfvrcknfls5q
+73 ['7', 'seven', '2', '4', 'three', '4', '3'] 7seven24rfpzpftrkgthree43
+43 ['4', 'three'] qplqnt4threezldtjfdzv
+31 ['three', '1', 'three', 'one'] three1ghfglcthreecnzjjphgrlmone
+84 ['eight', 'three', '8', '4'] eightthree84
+15 ['one', 'three', '5'] xxtpxgonethree5
+31 ['3', 'one'] 3onengztdjljx
+92 ['nine', 'seven', '2'] cjrtxxlcpfcqjmgqknineseven2
+43 ['4', 'eight', 'three'] sfxhqftcdht4eightthree
+22 ['2'] 2plnnlkqjnfxv
+94 ['nine', 'nine', 'eight', 'one', '4'] ninenineeightone4brmgnngchf
+56 ['five', 'one', 'six', '4', 'six'] fivexbtndsonesixlvtjvxhl4sixstn
+29 ['two', '8', 'four', 'nine'] dqcztwo8fourninexm
+53 ['5', '5', '3', '2', 'three'] 5532threeqmctrbnnhk
+28 ['two', '4', 'one', '8'] two4pqsjlcfone8jpt
+12 ['one', 'four', '4', '2', '2'] onefour42jqs2
+43 ['4', 'eight', 'one', '3'] 4eightone3gvqfhmmrnprc
+67 ['6', '8', 'four', 'four', 'five', 'seven'] 6sjlcfbs8fourfourfiveseven
+88 ['eight', '3', '1', 'three', 'one', 'eight'] nfdeightwo31threeoneeighthjnvcddclm
+12 ['1', '4', '9', 'two'] 149two
+81 ['8', '3', '2', 'nine', '1'] 8ckgmfsp32zsnzznine1
+71 ['seven', 'four', 'nine', 'six', '1'] sevenfourlfzztcbplszbninesix1
+21 ['two', '2', '3', 'five', 'one'] htdtwoqxmhnbfxr23fiveone
+95 ['nine', '1', 'five'] qvvqnineqf1five
+89 ['8', '9', 'three', 'seven', 'nine'] rchcjhvqxthv89pkqrffrvdthreesevennine
+33 ['3'] kzhtxmrzz3
+78 ['seven', 'three', '3', 'three', 'eight'] sevengnmtfxfthreeqd3fzkbvpgghpkvcgzhthreeeight
+39 ['3', 'one', '3', 'five', '9'] fsmnfc3one3five9mkqgnkkbpt
+99 ['9', 'nine', '9'] js9hbszkvngrnine9trbdkr
+97 ['9', '5', '3', '5', 'seven'] grdflnvhrnjcxgtshh95f35seven
+95 ['9', 'nine', 'five'] xb9fxdbcbdninefive
+96 ['9', 'seven', '6'] 9sevenmfvdbljjnkkh6shmnhzhvhczhtqhnztltc
+88 ['8'] tgkxpgkhdrhnpltgptdfj8
+45 ['4', 'one', 'six', 'five'] 4onesixfive
+75 ['seven', '1', 'five'] seven1rzpxlkmsbhfivexngj
+44 ['4', '1', '4'] plmhsjrgm414
+81 ['8', 'two', 'six', '6', 'one'] 8twobllkqgllczsix6onexsrvq
+46 ['4', 'nine', '6'] 4nine6
+23 ['two', '3'] vgfjtxhmqjtwopfrgbmr3
+15 ['one', '9', 'eight', '8', 'five'] jhoneight9tsgeight8fivejccrsblkfsndpcmbjm
+27 ['two', 'three', '3', 'six', '5', 'six', '8', 'seven'] dcdkbmkttwothree3six5six8seven
+72 ['seven', '9', 'five', '6', '2'] seven9fivepxlhhhxpmmmtrvvxgrzsxx62
+31 ['three', '5', '9', 'three', '3', 'one'] three59cksmfknhhdthreevpntxrnm3oneightpg
+94 ['nine', '3', 'five', '3', '8', '4'] ninevcctklkbfdtlqv3five384
+49 ['4', '9', '9', '9'] f4999tcvvgpdn
+73 ['7', '8', 'three', '2', '3', 'six', 'one', 'three'] 78three23sixonecqbrrkthree
+59 ['5', 'one', '9'] lcsrnr5rbbmone9
+87 ['eight', '7'] eighthjjsxhvf7qdxnqsjpdlmzkv
+84 ['8', '6', 'four'] 86four
+14 ['1', 'four', '7', 'one', '2', '3', 'three', '4'] 1four7one23threejvxh4
+72 ['seven', 'two', 'one', '9', 'two'] seventwoone9two
+99 ['nine', '3', '9'] ninejjdhg3fzkqp9
+94 ['nine', '1', '4', '1', '4', '2', '4'] nine14qjctcs1424vkc
+25 ['two', '4', '5'] two45
+19 ['one', '5', '5', 'nine'] gpzgdzcqone55nine
+71 ['7', '6', '6', 'four', '1'] 766fourrvhfrdcqvqn1
+18 ['1', 'three', 'eight'] cqfjjgbzhljcnjfnd1vhndrczpnhthreeeight
+86 ['eight', '7', '1', '6'] eightbzkgpvss7vpz16
+18 ['one', '2', 'two', '7', 'eight'] oneqcxqckg2dgnxtwo7lqjslxmeightwovs
+59 ['5', 'nine', '4', 'three', '9', 'nine'] tzvmvcjxk5nineltsb4three9nine
+82 ['eight', 'one', 'seven', '2'] mkeightwooneseven2
+73 ['seven', 'five', '3'] nrtkxhsevenzdfive3
+66 ['6'] 6kxrt
+98 ['9', '8', '3', '8'] 9gp838
+36 ['3', 'six'] 3sgtlcgvsix
+22 ['two', '4', '2'] dsqtwone42
+97 ['9', 'six', 'one', 'four', 'seven'] 9sixonekjtpvfoursevenrhfqgvc
+33 ['3'] 3gh
+83 ['eight', '9', 'one', '3'] eightzdzhmjj9onermrzjdlq3sbgtqmkcchx
+27 ['2', '2', 'four', 'three', '7'] 22fourthree7
+82 ['eight', '2'] fxpeightccgmznphxghv2
+58 ['five', '8', 'eight'] five8eight
+74 ['seven', '7', 'four'] seven7ftgqfour
+78 ['7', 'seven', '3', 'eight'] 7fvjtfxkmskseven3xdhrmdmjntsneight
+73 ['seven', '7', '1', 'five', '5', 'three'] vgqspdltzsevenbknftljmsk71fivechpjzsvlnm5three
+26 ['2', 'four', 'nine', '6'] 2fournine6
+52 ['5', '1', 'eight', '4', 'four', '2'] fchqnvjk51eightlfpmqtjtkv4bfpfour2
+14 ['1', 'six', '7', 'two', '4'] 1sixltcvfh7nngbcfbtvsftwonlncst4
+77 ['seven', '3', 'seven', 'seven'] sevencp3sevenseven
+35 ['three', '5'] lsqbbjsrthree5
+12 ['1', 'two', '2'] tfbbmtvmcnjbdm1dtwo2ghgthc
+98 ['9', 'eight'] 9lmdspfheightxrgnsffcdkztbvfsvfxkqtnddp
+25 ['2', 'five'] 2gllnfivexgnsst
+64 ['six', '4'] sixm4
+45 ['four', 'three', '7', 'two', '5'] fourthree7twobcm5vxdtlcmcg
+11 ['one', 'nine', '8', '7', '3', 'one'] onenine873gszpxcsonep
+22 ['2', 'three', 'one', 'six', '5', '2'] 2threenvxrbsxnjkonernsqrnqhzmsix5p2
+29 ['two', '7', '7', '9'] sllbrnpsjztwo779
+68 ['6', 'five', '4', '8', 'eight'] 6dfive4zqmhpzcdqj8eight
+59 ['5', 'nine'] 5nineqdmbg
+37 ['three', '7'] hbrffrnkvthreekjstcv7hvmngdfcn
+29 ['2', '1', '2', '4', '9'] 21249
+95 ['nine', '9', '7', '2', 'five'] ninekdgfqppzt972five
+79 ['7', 'eight', '9'] 7ljrvzfrklgmtqrstxkrkbjbpzeightxfnvr9
+76 ['seven', 'four', '9', 'one', 'seven', 'six'] sevenfour9onesevensixlczmmlg
+82 ['eight', '6', '7', '5', '2'] kcteightwo6752
+58 ['five', 'three', '9', 'eight'] fivethree9eight
+51 ['5', 'eight', '5', 'one'] zzgmn5nnfndqeightbzbcsxqpzj5one
+64 ['6', 'four'] 6fourvqfhs
+53 ['five', '3'] fivexfqvmrpgpgxz3
+54 ['five', '1', 'seven', '4', '4'] txqbhgcxjfive1seven44
+82 ['8', '2', 'one', '5', 'two', '2'] 82jonehgntqmxjbs5two2
+43 ['4', 'eight', '5', '3'] 4eightxmz53
+59 ['five', 'eight', '9'] lnzvmqrsgsfiveeight9
+37 ['three', 'four', '7'] threefour7
+75 ['seven', '4', 'seven', 'five'] seven4ljsevenfive
+13 ['1', '7', 'nine', '3'] 1jfcvdvgmb7scmcfsbbnine3
+46 ['4', 'nine', 'one', '4', 'eight', 'six'] kpxpxsvvg4fcjxjcmltnineone4eightsix
+29 ['two', 'five', '6', 'nine'] zjdcddgtwogfbbmdvcczbcfjpcdtslckbtzqfive6nine
+43 ['4', 'four', '7', 'six', '3'] 4tqghjdjnfour7six3
+23 ['two', 'three', '8', '9', 'five', 'three'] lgdtjjktwothree89scfivethree
+37 ['3', 'one', 'four', '6', 'seven'] 3xvvmzshronefour6sevenktdjmrmfqtnvhvl
+94 ['9', 'five', 'three', '8', '4'] 9fivexcpvthree8njncvnnz4
+52 ['5', 'six', 'two'] gcgx5sixdgqznrrstwo
+14 ['1', 'five', 'eight', 'one', 'four'] 1fivereightonefour
+15 ['1', 'five'] tfclzvrhb1five
+55 ['5'] xcq5
+59 ['five', '9', 'four', '8', 'four', 'nine'] five9four8fourtrdbmcjjjvnine
+67 ['6', '3', 'seven', '7'] 63rlxseven7bltsm
+11 ['1', '7', 'seven', '5', 'one'] 1bnzzkgm7seven5onezqjvzrnbnxkgffvt
+69 ['six', 'one', '9'] sixone9
+78 ['7', 'five', '8'] 7jzmnhjvzxfive8
+18 ['1', '6', 'seven', 'eight'] 16mbrtmstrhhsevenxkhgkmhreight
+95 ['nine', 'two', 'seven', '2', '5'] ninetwosevenp2ndddnhlczfnzx5pt
+83 ['8', '3', 'one', '2', 'nine', 'three', 'three'] bv83blnnpfrbsone2ninethreethree
+66 ['six', '5', '1', 'nine', '8', 'six'] zjjvslrqpvrhxsix5z1nine8six
+71 ['seven', '1'] cqqfxzzxrnmvdvssevenrdm1dckrhjbdxpgqshlnxvj
+78 ['7', '8', 'seven', 'eight', '2', 'eight'] 78sevenkrsvceight2eight
+24 ['two', 'three', '5', 'four', 'four'] twogrflcthree5gvmqfkpjfjcnqdhfourfour
+77 ['7', 'seven'] dcttz7sevengtgstlznlgcmbzs
+41 ['four', '6', '4', 'four', '1'] four64fournpxmfkdmqn1
+89 ['eight', '6', 'six', '1', 'three', '9', '9'] gmgndczvqeight6sixhhfgdrzbl1three99
+22 ['two', 'seven', 'three', 'five', '2'] twoseventhreefivecfsdlmnzvlqbrszjdz2
+12 ['one', '2'] onebh2
+57 ['5', '7', '7'] 5tcrkzggfdfzq77
+86 ['8', '7', '1', 'six'] gjhfrt871hmgsix
+56 ['5', '8', '9', '6'] qn589stxkhnlnhvzptzs6qlfvhz
+48 ['four', '6', 'seven', '8'] qhtnjvdmtflxffour6sevenktgtr8
+76 ['7', 'seven', 'six'] 7sevenhjjdvmsixpqzxkkzcqzd
+81 ['8', '4', '9', 'six', '1'] 849six1kt
+24 ['two', 'eight', 'four', 'nine', '4'] trhhcsndhtwoeightfournineszdrmrqhsq4
+99 ['nine', '9'] dfzrnine9
+19 ['one', '1', '8', '9'] roneightgqnxnd18frkjgvhpngpcs9
+33 ['3', 'nine', '8', 'three'] 3nine8lvkpzzqjkhxjjthree
+22 ['2'] 2cmdmvnzb
+78 ['seven', '8'] dkxscqdrctgxzlflrlvtnkqlmrlgsrqseven8qlqrdz
+43 ['4', 'five', 'three'] 4fivethree
+22 ['2'] 2qtbhgfjcpchsjslm
+66 ['6', '1', '3', '5', '6'] gtvvdchll61gczsrlxhgf356
+62 ['6', 'one', '4', 'seven', '4', 'two', 'two'] 6onegckf4seven4sbntwotwo
+22 ['two', '1', '8', '7', '2', '2'] ccstwone1872hdv2
+55 ['5', '1', '5'] 515mhxpngvzqt
+43 ['four', 'one', 'seven', '3'] fourjhhfsbonexdzhgrseven3
+24 ['two', '6', 'seven', '4', 'nine', 'three', 'four'] twoxklx6seven4ninethreertczhbsfour
+44 ['4', '1', 'four'] rhtl4pg1four
+64 ['6', '4'] 6dlprbkclc4nxvfqkpt
+51 ['5', 'one'] 5onelkmrhczkm
+13 ['one', '5', 'two', '3'] zqhxmhgkone5xpkvsntwo3
+21 ['2', 'two', '4', '6', '1'] 2two461
+25 ['two', '6', 'two', '4', 'seven', 'five'] twolr6two4bzssevenfive
+22 ['2', 'one', 'one', '7', 'nine', '3', '3', '2'] 2oneone7ninetsgxlx332
+83 ['eight', '3'] eight3hvlzpxtcs
+23 ['2', '5', 'eight', '3', '3'] 25eight3tbpccjbx3sdcmt
+28 ['2', 'six', 'eight'] krdzhfh2sixeightgrszdxt
+62 ['6', 'five', 'two'] tjxlhrgmqcdspzdb6ssgqnxcxlvbfivetwo
+98 ['nine', 'three', '3', 'six', '8'] snninedqlbnhqzjthreebhfnfrf3pfcqzfnffhsix8
+83 ['8', 'nine', '3'] 8nine3
+95 ['9', 'five', '1', 'six', '5'] 9five1xlbvsix5sdcrlhgtffxb
+77 ['seven', '5', 'nine', 'two', 'five', '7', 'four', '7'] seventrldtzv5ninetwofive7four7
+35 ['three', '1', 'seven', 'five'] blbvthree1grdhltsevenfive
+41 ['4', '1'] fkrhh4gd1
+11 ['1', '5', 'six', 'one'] 1jncdsphsnjzkxphbdftksc5dtgsixone
+31 ['three', '3', '1'] fglnthreehgkx31
+35 ['three', 'four', '8', 'three', 'five'] threexnfour8threefive
+11 ['1'] zzjnmhvbltp1
+64 ['6', '3', '2', 'four'] 6vcjxszkfmkprpl32cfjsrhzmdfourjdflnfql
+44 ['4', '9', '4'] 49tlsqspjjcmtjvpd4
+74 ['7', 'seven', 'one', 'three', 'four'] 7sevenjfqpktqpdhonethreefpjqhbjcpfourdzzcbxp
+72 ['7', 'six', 'eight', '9', 'two'] xn7sixeight9dphpvscjlxdtwovjbnx
+78 ['7', '2', 'eight', '7', '6', 'eight'] tzgrvrkgbs7cfzf2eight76eight
+49 ['4', '8', 'two', '9', '7', 'nine'] 4xlnzqrxqk8two97vxjninelmhzhv
+98 ['nine', '7', '2', 'eight', 'eight'] ninedqlbgpbmf7dhmshsbq2eighteightpgzq
+45 ['four', 'three', '8', '2', '5'] fourthree825
+24 ['2', 'three', 'nine', '2', '4'] jcqftlf2threecbnine24lds
+48 ['four', 'nine', '8'] fourtxnine8zhlzcqjmvk
+53 ['5', 'two', '3'] 5two3
+44 ['four', 'two', '4'] zfkdgfourtwoc4
+75 ['7', 'five'] 7fivefch
+47 ['four', 'nine', '2', '7', 'seven'] fourqrvjmbninelcvjlgqxmvhf2hldvjzhl7seven
+87 ['eight', '8', 'four', '5', 'seven'] vkfeightwo8four5seven
+79 ['7', '9'] 79fxdpd
+64 ['six', '1', 'four'] tdjspcsixdqrgkxvk1vjmggfpbrvfour
+47 ['4', '3', 'four', 'two', 'eight', 'seven'] 43tnmdpslnxfourtwovnzdzhvteightseven
+36 ['three', 'nine', '1', 'one', '6'] threenine1zklgrlllhonekn6
+13 ['one', '2', 'three'] one2zhnthreez
+11 ['one', '1', '1'] bone11npzv
+54 ['five', '4', '4', '6', '1', '4'] five44614jnzxvdjhm
+21 ['2', '7', '7', 'seven', '1'] 277seven1
+68 ['6', '6', '5', '1', '8'] 6djmb65nglbkzrlpfgsqchbp18
+94 ['nine', 'six', '2', 'four'] ninesix2four
+45 ['four', '8', 'five'] four8nshkzhzvxlxxnngxvfive
+29 ['2', 'three', 'three', 'nine', '8', 'nine'] 2threejrxhhqkctsthreemdqzpxxrrglnine8nine
+11 ['1'] 1xdm
+89 ['eight', '7', 'nine'] kgnprzeight7nine
+83 ['eight', '3'] mssbnjdcjvvtpnsrnslmeightbzl3nr
+98 ['9', '6', 'one', 'one', 'eight', 'eight'] 9dppkrcf6oneoneeighteightklmtfvl
+86 ['8', 'nine', '4', '6'] 8ninebrzqx4kbhkcp6
+71 ['seven', '1', '1'] seven1hklsjbdqzp1zc
+21 ['two', '1', 'one'] twofcbxntcskg1onezzqfrff
+94 ['9', '4'] 94xssjlkccfbljz
+52 ['five', '4', '7', 'seven', '2', 'two'] spfive47ssjssevenrz2two
+96 ['9', '8', 'three', '6', '7', '6'] 98threelc676
+33 ['three', 'one', 'seven', '7', 'three'] mxrgthreezzkhcmoneseven7three
+57 ['5', 'six', 'one', '9', '7'] crdvdtq5sixone97
+88 ['8', 'eight'] 8eightbvbg
+75 ['seven', 'three', '2', 'five'] gvjscdfkdmseventhree2nbvbzmdmmtrfive
+16 ['1', 'three', 'seven', '4', 'two', '1', '2', 'six'] 1threesevenhcxggpds4two12six
+58 ['5', 'one', 'four', '8'] 5onekxzkfour8
+24 ['2', 'eight', '4'] 2ddeight4
+65 ['6', '4', '5'] 645
+98 ['nine', '9', '8'] ninejjrlhdhjtzmrlvljfr98
+79 ['seven', '1', '1', 'nine'] seven11ninebvbtnbzdmblbjvzsh
+93 ['9', 'nine', '5', '9', 'seven', 'three'] 9nine59xmdktjsnseventhree
+66 ['6', '1', '2', '6'] qdxgtk6126vxcgtxkkbqjrpfntvsprq
+71 ['7', '5', '5', 'nine', '1'] 75cqkfddg5ninejkbvpsbcltssh1
+33 ['3', 'one', 'one', '3', '9', 'one', '3'] 3onerfpqbsvone39one3nrxmbk
+11 ['1', '6', '1', '2', 'three', '1'] 1612three1
+87 ['8', 'seven'] 8hqrsksevenldcqrcfxhr
+91 ['nine', 'five', 'four', '2', '1'] ninerfkxndfhhkfivefjntjzxhgpbbffvfour2sg1
+77 ['seven', '3', '7'] seven37kbxszsgpt
+85 ['8', '9', '4', '3', '5', 'five'] 89435jpgsfiverhsztt
+36 ['three', 'seven', '1', 'six', 'six', '2', '1', 'five', '6'] threeseven1sixsix21five6
+12 ['1', '5', 'four', '6', 'eight', '8', 'two'] pzht15gxvjlvsfour6eight8two
+73 ['seven', '7', '7', '1', 'three'] lkvcseven771gcvrsvsshtppdgxnvclqhnjlvvthree
+76 ['seven', '6'] sevenmpghzvvrd6
+84 ['8', '9', '4'] 8vprrlcq9xzhmhnj4
+14 ['one', '1', 'two', '4'] dxhsxknone1two4
+84 ['eight', '6', '4'] eight64d
+85 ['8', 'six', 'five'] 8jqdlcsixzzhvnnfiveqbtlhrr
+95 ['9', 'eight', '5', 'nine', '5', 'five'] 9eight5nine5fiverk
+53 ['5', 'three', 'three'] xhhxgf5bfsbthreesthreeltlvhvrjnslxhsrp
+23 ['two', 'six', '5', '5', 'two', 'four', '3'] twoqccssix55twofour3vtsjxk
+14 ['one', '4', 'seven', 'one', 'three', '9', 'six', 'six', 'four'] goneightpqgblvhpmp4sevenonethree9sixsixfour
+17 ['one', 'three', '5', '3', '6', 'nine', '7'] onethree536xhznine7df
+98 ['9', '9', '8'] 998
+63 ['six', '2', '3', 'three'] hsix23three
+15 ['one', '5'] chgtqonenvxtlrhxvxmbbl5
+22 ['2'] 2zkzg
+11 ['1', '5', 'one', '9', 'one'] 1hgrpzshm5onebcgpfv9onecgtr
+35 ['3', 'six', 'one', '5', 'one', 'five'] 3sixonevldsdlxqtjsnlt5onehxdpfive
+89 ['eight', 'eight', '5', '9', '9', 'nine', 'nine'] eighteight59phbd9ldnvdlsxninenine
+79 ['seven', '9'] zseven9
+22 ['two', '2'] xptwonekdrnv2
+55 ['5', 'seven', '5'] 5tsmnbhxhzrtfbknbqsevensnxbqrhs5
+64 ['6', '9', '4', 'one', 'four', '1', 'four'] 694onebvmscclkbsfour1kxgfxdbfour
+22 ['2', 'nine', 'two'] g2ninetwoned
+35 ['3', 'four', 'five', 'five'] gmlsjjttcngblmjhtgkz3fourdrzrrmsszfivefive
+55 ['five', '8', '5'] gtmzmkrktmrkfive8tq5
+84 ['eight', '1', 'four'] eight1four
+86 ['8', 'eight', 'three', '4', 'three', '6'] 8eightthreevqgtlfxrm4three6mnrfzvpkbl
+26 ['two', '3', 'three', 'five', '6'] szrbvtwo3lqbxthreefivemshzfgjzlllrmr6
+93 ['nine', '8', 'nine', 'nine', '3'] kzczdbjcbnine8nnineninevfbt3vsvcplsnj
+95 ['nine', 'seven', 'six', '5', 'five'] ninesevensmgfsix5fivedfpxvmtmcsgzpbppfjt
+79 ['seven', 'one', '7', 'three', '5', 'three', 'nine'] sevenctdzznone7three5kngbthreenine
+46 ['4', '4', 'six', 'one', 'one', 'six'] 44sixoneonesix
+93 ['nine', '9', 'five', 'five', '5', '3'] nine9fiverrbbrqtfive53
+13 ['one', 'six', '2', 'one', 'seven', 'three', '3'] onesix2oneseventhree3rmpjl
+27 ['2', '3', 'seven'] 23htxtgxqkseven
+48 ['four', 'six', '3', 'two', 'eight'] fourlkbsix3twonndccsseightbs
+83 ['eight', '8', 'two', '5', 'four', '3'] eight8two5four3
+59 ['five', '8', 'six', '3', 'four', 'nine'] five8dvxpqfsixghrkg3fourninetfsdbxzp
+66 ['six', '6'] bhtqtclbsix6jlvxtgmq
+41 ['4', '9', '8', 'three', '1'] 498three1
+22 ['2'] 2t
+73 ['7', 'five', '3'] 7five3bcjxsglnxqjxjqfb
+68 ['6', 'seven', 'eight'] 6seveneightxvmqgbklgnbfgzlncvg
+81 ['8', '9', 'nine', '7', '4', 'one'] 89nine74gbgbcone
+86 ['8', '6'] 8dtln6
+58 ['5', 'eight', '8'] svtl5eight8
+69 ['six', '8', '6', '5', '9'] jsxzlsix8bzrmcl659lrmgtnpv
+64 ['6', '4', '6', 'nine', '4'] 64rklskvlndm6ninextbrs4
+12 ['one', '7', '9', 'two'] voneight79two
+22 ['two', '7', '7', '7', 'two'] sbzdmjbtwo7dnglczphb77fvhtwo
+28 ['two', '3', 'eight'] two3eightwoj
+14 ['one', 'eight', '8', '9', 'nine', '4'] rtoneighttsgeight89nine4
+38 ['3', 'six', '8'] 3six8vbdbthxxffgm
+14 ['one', '4'] rxgoneight4mtqdpzbfndtsvsrzt
+78 ['7', 'one', '4', 'five', '8'] 7one4lbqcfnffive8
+58 ['five', '8', 'two', '2', 'eight'] fivecd8two2eight
+29 ['two', 'five', 'five', '6', 'two', 'two', '9'] twofivefive6twotwoklvbdstxfcvsm9
+36 ['three', '7', 'six', 'seven', '4', '6'] threemdrdnhl7sixseven46mctldxnn
+59 ['5', '3', 'nine'] 5njljbxdrcbrrm3ninec
+54 ['5', '6', 'eight', '4'] 5jg6eight4
+96 ['nine', 'three', 'two', '6'] ninethreetwo6dnldknsnn
+82 ['8', 'five', 'six', 'two'] xrpczvvfnpjfbpvxzjzpmrkpb8fivesixtwonetj
+46 ['4', 'five', '4', 'one', '3', '6'] 4five4vmone3td6
+71 ['7', '7', '1', '6', '9', '1'] 77jbgjkgkfd1691lfp
+66 ['6'] fhxvlvct6
+81 ['eight', '6', 'one', '7', '1'] scjeightwo6onedjz71jslzdfxp
+77 ['7', 'eight', 'two', 'seven'] 7eightpblnnbvqtvtwoseven
+55 ['5', 'three', '2', 'three', 'five'] btdgplkdvl5rlzjkthree2threefive
+28 ['2', '9', '8'] 298
+78 ['7', '8', '3', '2', '8'] 7hhfxtfcvsqjvsxpbdjqzxngg832tdznpfhz8
+69 ['six', '2', 'six', 'seven', 'nine'] drhfzlnlcrsix2dbjqhrxzqrsixsevengrnine
+66 ['six', 'nine', 'six', 'one', 'eight', 'two', '9', '6'] sixninesixoneeighttwo96
+16 ['one', '4', 'six'] onekqzjft4zdspcvmbjtzbsixv
+64 ['six', '7', '4'] sixgkx74
+72 ['7', '5', 'eight', '2', 'two'] 75eightqvblvm2gtjmcljphjvtwonesq
+21 ['two', '9', '6', '8', '1'] bcmqtltwoxsbkvhdv96df81
+89 ['eight', '3', '4', '5', 'six', 'nine'] eight3bk45sixninezdnntshfv
+96 ['9', 'three', 'two', 'six'] 9threetwosix
+29 ['2', '2', 'nine'] 2vrfzsvcprnjzngl2nine
+57 ['five', 'six', '2', '2', '7'] fivekdhcgrpznvsix2nmhthl27
+15 ['1', '9', '5'] 195
+46 ['four', '8', 'six'] four8tspldsixzzqxrqqmsr
+82 ['8', 'five', '3', '7', '2'] 8bnvksmmlhnfive372jmxhj
+97 ['nine', 'seven', '6', 'three', 'eight', 'nine', '7'] nineseven6threeeightnine7vtzmpf
+24 ['2', 'two', 'five', 'one', 'four'] 2twofivehbponevptflmzgxljzfour
+82 ['8', '5', 'eight', '8', '1', 'two'] 85eight81two
+28 ['2', 'five', 'three', '1', '4', '8'] 2ctnhxfivethree148vjtzfdfkkfvvtgb
+69 ['6', '2', 'six', '9'] 62sixpsfjzcxzlzsjbtxnjpbctgcjm9
+11 ['1'] gmclvqfq1
+39 ['3', '2', '9'] 32csv9dgfxsjm
+45 ['4', 'five', '3', '3', '3', '4', '5'] 4fjcdrzmznhfive33345
+68 ['6', '2', 'eight', '1', 'eight'] 62eightrdplbxdhfq1eight
+44 ['4', 'four', '9', '7', 'four'] 4four97skpvpphtbqmmsckxpdqnfour
+97 ['9', '1', '3', 'seven'] 913sevennmmbbnntrs
+82 ['8', '6', '2', 'two'] 862twonec
+36 ['three', '2', 'four', '7', 'four', 'eight', 'two', '6'] three2four7foureighttwo6
+98 ['nine', '7', '2', '1', 'nine', '8'] ninejnt721nine8
+81 ['eight', '1'] eight1gpnrlklmxt
+96 ['nine', '2', 'nine', 'six'] nine2mrzvhlzxgninesixkp
+93 ['9', 'nine', '3'] cklsqdf9nine3
+73 ['seven', 'three', 'five', '4', '3'] seventhreefivehdnkjqtd4tcjxpbcvpjsvbhdvx3frkc
+16 ['one', '8', '5', 'two', '6'] one85sbrtsftwo6
+66 ['six', 'nine', '8', 'nine', 'one', '4', '6', 'six'] sixnine8nineone46six
+99 ['9'] dmtlrzkfdsdklbvzckjmnthkkmqh9
+98 ['nine', 'two', 'one', '8'] ninetwojone8
+85 ['eight', 'two', '5'] bfneighttwo5
+47 ['4', 'eight', '7'] slqmsbnl4mmeight7
+55 ['5', '5', '2', '4', '8', '5'] 55dnsb2485
+54 ['five', 'six', '8', '6', 'two', 'two', 'four'] fivesixmzvmsmkkhd86twotwofour
+76 ['seven', 'nine', '1', '6'] gppnzsevenninemzbzzqqhzvgclndss16
+87 ['8', 'two', '7'] 8two7r
+86 ['8', 'seven', 'two', 'eight', '8', '6'] 8xsevenbfvhdqxtwoeight86
+92 ['nine', 'eight', '1', 'eight', 'nine', 'nine', '8', 'two'] fnnineeight1eightninenine8twonejgf
+51 ['five', '7', 'three', '5', '1'] five7three51
+87 ['eight', 'three', '4', 'seven'] eightthreevsnn4seven
+48 ['4', 'eight'] nhhjkxhtxp4csfeight
+29 ['2', 'nine', '9', 'six', 'four', '9'] 2nine9sixfour9
+82 ['eight', 'four', '7', 'nine', 'two'] fveighttvjxbhzfour7ninetwo
+56 ['5', 'eight', '6'] 5eight6
+33 ['3'] txnxcrx3
+22 ['2'] chbmjvmlfqfgsg2hdg
+59 ['5', '6', 'five', '2', '9'] 56five29hrrjgxnrbnzjjktdfqssjqksxn
+88 ['eight', 'two', '7', 'eight'] eighttwohszdlc7veight
+55 ['5'] 5ltglgmlfkkbzkvh
+82 ['eight', '3', '3', '6', '2', 'eight', 'two'] eight336gbxmzjsbpgztprdv2eighttwo
+54 ['five', '4', '4'] five44
+48 ['4', 'three', 'four', 'nine', 'eight'] kdfbgxpcqtdlksc4threefournineeightnshlmfvs
+16 ['1', '5', 'six'] 1c5six
+77 ['7'] nss7bccb
+32 ['3', '4', 'eight', '9', 'six', '9', '2'] 34eight9six92
+13 ['one', 'two', 'five', '2', 'seven', '3'] onetwofivedblgtrxzpvmrhhsj2jhrcbbsseven3
+95 ['nine', '5'] vxkczjfhnine5drz
+41 ['four', '1'] bfourqkmt1
+21 ['two', '2', 'one', '1'] two2onedgxgmffcg1
+35 ['3', 'three', 'nine', '6', 'five'] 3threenine6vlstktnqdzfive
+38 ['three', '8'] three8gsqdqpv
+77 ['7'] 7ndgkns
+43 ['4', 'one', 'three'] 4onerglbzsjrkqskljcgthree
+76 ['7', 'six'] zxkgzkvn7fssgdsblvksixn
+72 ['7', '8', '8', 'five', '8', 'four', 'two'] 788sjxcxmtxfivezzpgsbzbtl8fourtwo
+99 ['9'] 9mhrlcsqqgzjrfnd
+71 ['7', 'six', '2', '3', '1'] 7kbmhmlghssix231
+72 ['7', '6', '2'] 7tcfv6jpkxnzmrtx2
+25 ['2', '8', 'five'] bcxvhcjbhsxbgbrj28fivenhk
+37 ['3', '4', '4', '7'] jrm3447
+61 ['six', '2', '9', 'one'] ljsix29mhrmrjpcfqone
+46 ['4', '6'] xqdxkzls46
+96 ['9', '9', 'three', 'two', 'six'] bmhnfnd9qmbndfhqnv9bhdpqxthreefbptttwosix
+67 ['six', '9', 'three', '5', '3', '7', 'seven'] six9three5blqp37seven
+47 ['4', '4', 'two', '8', 'seven'] 44ffvsnxttwo8seven
+33 ['3', '4', 'three', 'six', '6', 'three'] cmjccpp34threesix6jhthree
+86 ['eight', '8', '6'] eight86
+32 ['3', '9', '2'] 3vqqjlgdj9zncvjhbpr2d
+26 ['2', '6', 'five', 'two', '5', '6'] 26sfzqpfgfivetwo56
+38 ['three', '8'] xljmtkjkzthree8
+94 ['nine', 'seven', 'four', 'five', '4'] ninesevenfourtsctjhvfive4dt
+44 ['4'] jzsxmmxmpllqpmszczxzghpxp4
+31 ['three', '5', 'one'] hcrtjnvghvnthree5one
+58 ['5', 'two', 'eight'] 5twoeightsktxhmkpcts
+75 ['7', '5'] ltrkvbzlnccrmrsfmjrbfjrh75
+68 ['six', '8'] cbxfpfsix8lkbqh
+95 ['9', 'seven', '7', 'five', 'five', '5'] 9mseven7fivefivexdjxct5
+94 ['9', 'seven', 'four', 'two', '9', '6', 'four'] 9sevenklrvhclkrfourtwo96four
+23 ['2', 'three'] 2pkbthree
+17 ['1', '4', '7'] kqpbhjxzfn147
+99 ['nine', '2', 'nine'] nineqnjxrmq2gnineh
+56 ['5', 'six'] 5sixcrtgqqlqflm
+94 ['9', 'four'] 9fourzjzmhmnksxc
+43 ['four', '8', '6', '3'] four86rdndxscqnjcxghnvgmzp3
+51 ['five', '9', '8', 'eight', 'one'] mqmfive98eightmbxrgddqbbqone
+63 ['6', '6', '4', '3'] gtb66rbclkxdl4spzpgqmkdh3
+92 ['9', '6', '5', 'two'] 965two
+94 ['9', '6', 'one', '8', 'four', '4'] 96pskqjvckxffkone8four4
+31 ['three', '9', '1'] three9xlf1
+89 ['eight', '9'] spczeight9dvg
+62 ['6', 'two'] v6two
+97 ['nine', '5', 'two', '2', 'seven'] pgksdtnkbbninef5zttwo2seven
+44 ['4'] 4gnvxkc
+92 ['9', 'four', '4', '3', 'six', 'two'] 9four43sixtwofzf
+31 ['3', 'six', 'six', '4', 'eight', 'eight', '2', 'one'] 3xsbfcsixsix4eighteight2one
+32 ['3', 'one', 'eight', 'two'] 3oneeighttwo
+24 ['two', 'two', '5', '7', '2', 'four'] ptwonetwoskjsspjhmxrmvlzcqz572fourmpxx
+32 ['three', 'one', 'two', 'two', '2'] threeonetwotwo2
+71 ['seven', '1'] slcseven1xtxbpfb
+82 ['eight', 'three', '7', 'four', 'one', 'nine', '6', 'two'] peightwothree7pdmktbcfouroneninekrf6two
+68 ['6', '6', '8'] 668
+88 ['8'] lxshscpkv8fmhcpslhpp
+12 ['one', '7', 'one', 'three', 'two'] tzrdone7onethreectwo
+83 ['8', 'four', 'four', '7', '3'] 8pkkpdmzhfourcmjljfour73hhqqmfc
+11 ['one', '7', '1', 'nine', 'six', '8', 'one'] one71ninesix8oneighthlx
+73 ['7', '2', 'six', 'three'] 72pjpmfcgjhvsixksgrjthreegcspcdxchxkxflmh
+43 ['4', '9', '8', 'three'] 4bzr98threeksb
+94 ['9', 'one', '6', 'four'] 9one6xdfcsvbbqfour
+53 ['5', 'eight', '3', '3'] hr5eight33
+99 ['9'] zgsvc9
+75 ['7', '1', 'four', '3', '9', '5'] 71hfourtch395pvnzsmhdf
+22 ['2', '2'] zsvppvgzllgf22
+32 ['three', '4', 'six', 'nine', '2'] threebkkrcqzvnt4rjblsnsixninetrjgjjvlv2
+29 ['2', '8', '9'] 289
+44 ['4', '8', 'five', 'four'] krqdkcfbpp48fivefour
+51 ['five', '7', '5', 'one'] five7tgpt5flkone
+86 ['eight', 'five', '3', '1', 'two', '6'] eightfive31twoghnqffp6
+81 ['eight', 'seven', '6', 'one', 'six', 'two', '1'] eightseven6oneckpsixtwo1
+44 ['4', '4'] 4l4
+45 ['4', 'seven', 'five'] 4sevenxzdnprlcjrfive
+66 ['6', '8', '7', 'six'] 68vntztlbjqtqkstsp7lkhcgpbtdmzrndsix
+12 ['one', 'six', '2'] onesix2
+61 ['six', '4', '7', '2', '8', '1'] sixhc4hhglhp7281h
+33 ['3'] 3zvhhv
+52 ['5', '2'] lmfsqtnzfk52qrdh
+41 ['four', 'five', '8', '7', 'seven', '1'] fourbvnsjfjfive87seven1
+28 ['two', 'one', 'six', 'six', '1', 'two', 'eight'] twoonesixsix1twodxjdkdeight
+93 ['nine', '3'] nnine3
+22 ['2'] ccclkfdb2lftfhnjcqd
+11 ['1'] 1q
+89 ['8', '9'] gtcdzjhfv8p9
+58 ['five', 'four', 'two', '6', '2', 'eight'] fivefqxrfourtwo62eighthdcsqrmxjv
+13 ['one', '5', '5', '6', 'five', 'seven', 'two', '3'] one556mgtsdvkqfiveseventwo3
+35 ['3', '4', 'two', 'three', '5'] mvkrxnj34psqtwojhrdjgthree5
+78 ['seven', '2', 'eight'] sevencndnndjfzp2eightqcbhvb
+86 ['eight', '2', 'five', 'one', '6'] eighttbvvck2fiveone6vkljmslcrsghk
+64 ['6', 'four'] tqdhnzfrr6fourzf
+97 ['nine', '7'] ninecqxgkbsv7
+83 ['8', '4', 'six', 'eight', '3'] 8nsl4sixnxrcdhtkeight3
+79 ['seven', '6', '4', '9'] sevenxsczhz6dv4sc9brxnsms
+51 ['5', '1'] 5glknvqzlqvmzvnzrb1
+51 ['5', 'one', '1'] 5oneqcshgqbfp1
+58 ['5', 'two', '1', 'six', 'seven', '1', 'eight'] 5two1sixsevenjpgnbvjpcgd1eightwoh
+22 ['2'] 2qglrzsxz
+32 ['three', '2'] fpdthreek2
+54 ['5', '1', 'seven', '3', '4'] gplr51sevenfg34jhhp
+68 ['six', '7', '8'] six78tbzz
+27 ['two', 'three', '7'] hntwonethreergcp7
+55 ['5', '9', 'five', 'five', '5'] 59fivefive5
+35 ['three', 'seven', '4', '4', 'five'] threezfjxxtqrvhjcdkjsevenhgp44fivetphhfbdtxs
+22 ['2'] njkd2dcddfzpvpfqp
+36 ['3', 'six'] 3sixgnnl
+64 ['6', 'nine', '1', '3', '4'] 6ninefdqzfpxspsnzs13gz4
+31 ['3', 'four', '6', '6', 'one'] 3four66one
+53 ['five', 'seven', '2', '2', 'three'] fivesevenczmt22nfvnxhbvgjtvjmdzhfqhxtthree
+45 ['4', 'nine', '5'] sttx4gktnine5vlqjzddkr
+48 ['4', 'five', 'seven', 'eight'] 4fivejpsscfqdtgjmtvrljdseveneight
+12 ['1', '2'] xtfqvnpsfnfppx12rvcldvkhbb
+67 ['6', '2', '4', 'one', '4', 'seven'] 62hj4oneqlp4seven
+66 ['6'] 6hdnlgrfdccsqsxjqrv
+31 ['3', '3', '1'] 331
+98 ['nine', '6', 'eight'] nine6eight
+24 ['two', '6', 'four'] two6mbfdmgpfourng
+33 ['3', 'three', '3'] fmnv3three3
+92 ['nine', '5', 'two'] nine5hvzkrjtwo
+63 ['6', 'eight', '7', '3'] 6eight73
+41 ['four', 'five', '7', '9', 'six', '7', 'two', '1'] fourfive79six7two1
+43 ['four', 'eight', '5', '3'] thzhjrfsfoureight53
+16 ['1', 'six', '1', 'seven', 'six'] 1lzfxgvtxgdxtsixffptldz1srgsnvtpnsevensix
+78 ['seven', '8', 'one', 'three', 'four', 'eight'] seven8onertbqhthreefourctdbsrcvcsjlvcxneight
+53 ['5', 'eight', 'five', '3'] 5eightfive3
+66 ['6'] 6phjbkvrjd
+47 ['four', 'seven', '9', '7'] gssfoursevengvtfznklj97
+53 ['five', '3'] fivemgrddqslp3
+96 ['nine', 'two', '6', 'six'] ninetwo6sixpv
+82 ['8', '2'] lhdjm82tlnqrxqtvd
+67 ['six', '7', 'five', 'seven'] six7hpcjqnrszkfiveftvjnhjsevendqmmr
+22 ['2'] m2cjfjcb
+52 ['five', '2', '7', 'two'] thfive27fjnshtwo
+77 ['7'] vmzxlq7
+39 ['3', 'nine'] xlg3nine
+58 ['five', '3', '3', 'seven', 'nine', 'six', 'eight'] schnfive33sevenninedhpjfrsixeightwoxr
+91 ['nine', '3', 'seven', 'one', 'one'] bmnine3mgrttsevennvhtdszmtxoneone
+17 ['1', 'six', 'five', '6', 'seven'] zgkqdrvfjtg1sixbsqgdjfivelnrmpqqstv6seven
+19 ['1', '1', 'four', 'nine'] ljln11fourgjgvfmhmninekdlpjmrn
+23 ['2', '2', '9', 'three'] jffhrkpm22sbnsrpxg9three
+45 ['four', 'two', '1', 'six', '5', '5'] fourtwo1sixjvv55ttflnvshb
+44 ['4'] xgndhkmdnxgrhqh4lm
+89 ['8', '7', 'five', '6', 'nine'] 87five6nineddnrzd
+97 ['9', 'five', 'six', '3', 'one', '3', '7'] 9pmmddvffivesix3one37
+22 ['2', '1', '6', 'two'] 2flddmzcjbfrbdxzhvhsrx16twonej
+73 ['seven', '7', '1', 'three'] knzfrseven71fjzhmdznfthree
+94 ['9', 'five', '8', '4'] 9five84dfj
+71 ['seven', '1'] sevenc1qhxqhgl
+18 ['one', '4', '9', '9', 'eight'] flkdskjjzmqtcmljkone49ljffjtxhs9eightwopq
+56 ['5', 'eight', '6'] qhhktqkdfjzth5eight6
+79 ['seven', 'six', 'six', 'six', 'six', '9'] sevensixmvvrzhsixsixsix9
+21 ['2', '2', '4', '1'] 2241
+11 ['1'] 1xzjfpjkkcltvznzzfrh
+38 ['three', '5', 'five', 'eight'] jrvcznlvfgntthree5fivejqrheightwoxkh
+15 ['1', 'one', 'one', '3', 'five'] lqxtk1oneone3rkfive
+88 ['eight', '3', '5', '8', '8'] hqjbpqjeight3588
+19 ['one', '9', '6', 'six', '6', 'nine'] one96sixkbgcx6zhmnine
+86 ['eight', '7', '7', 'six'] eight77six
+45 ['four', '4', '6', 'nine', '3', '1', 'five', '3', 'five'] four46nine31five3five
+82 ['8', 'two', '7', 'three', 'nine', 'three', 'two'] lhd8two7dhthqhbzvlknvtrlfthreeninethreetwonez
+59 ['5', 'nine'] 5cdgllrdsspnninerxdphcsstt
+91 ['9', 'two', 'six', 'one'] s9twosixonezcrfmcd
+23 ['2', 'three'] dtqfrnrtdn2threespcfh
+16 ['1', '1', '3', 'six'] 113six
+13 ['one', 'five', 'three', '4', '7', 'three'] onefkznlfjpkfivethree47three
+41 ['4', '4', 'one'] f4hlxdlndqp4blmbzxfvone
+73 ['seven', '2', '2', '9', 'three'] czsdseven22ht9threepmfhdpq
+77 ['7'] 7mdvchlcpn
+58 ['5', 'eight'] 5ssxkrgvhthmleight
+75 ['seven', '1', '3', 'four', '7', 'five'] seven13four7fiveq
+36 ['three', '1', '8', 'six'] threetcstlhfcqdfhjgccckcvk1hjlpmmkjmr8six
+14 ['one', '8', 'four'] sljoneightg8fourfrsfbgfktr
+84 ['eight', 'eight', '3', 'one', 'one', 'four'] jfeightwolzcmztqeighttftr3oneonefour
+48 ['four', '7', '8', 'three', 'eight'] four7tdkq8threeeightfcgpddp
+35 ['3', '5', '5'] drj3vlj5tcjsfbzffcmmqmgtt5
+82 ['8', '2'] 82
+63 ['six', 'seven', '5', '3', 'three'] jsvzmkqrlkkvfmdxjrshhnsixseven53three
+74 ['seven', '1', 'two', 'nine', '4'] seven1twoninebdpb4
+62 ['six', '9', '1', 'two'] bjhtgqbfnccspgzbhlqgdzfznxhsixgdfkg91two
+81 ['eight', '1'] fqzrrbchbmhrneightclvd1
+61 ['six', 'eight', 'seven', '1'] sixeightseven1rlnlqlm
+72 ['7', '9', '3', '5', '8', 'two'] pxxtd793frjfckbhstcdhsrx58mksktwoneqx
+11 ['one', 'five', '5', '1'] zccxxqcfglnnrxdonefivevxtxgzgkh51
+58 ['five', 'three', '2', 'two', 'eight'] fivenzrmrjfpjhxhkxthtkdrqfthree2twoeight
+91 ['9', 'four', 'five', '5', '1'] kzjn9fourqmglnxmqfivenfg51
+85 ['eight', '8', '5'] cxeightwo8lzqcdlmbgt5
+54 ['five', 'seven', '9', '4'] fivekmfkjnqseven9jlts4
+71 ['7', '2', '4', 'three', 'eight', '5', '4', 'one'] 724dtlznnqtthreeeight54one
+79 ['7', 'nine', 'seven', 'nine'] 7ninesevennine
+55 ['5', 'eight', '3', '5'] dj5zhmxtgsdpzlkzcbvnldeight3kk5mmvs
+19 ['1', '9'] 19hczk
+31 ['3', 'seven', 'one'] 3sevenhlkttqsqllsbplone
+49 ['four', '7', '5', '4', '9'] fourtzlbxhvt7ht54dvtkdprljj9
+43 ['four', '2', '3'] fourmvpzqjnb2hmhc3zjvlgrxsm
+15 ['one', '8', 'five'] onekqjtd8five
+87 ['8', '2', '4', '8', 'two', 'seven'] 82rbnsg48twoseven
+42 ['four', '3', '5', '2'] four352
+29 ['2', 'four', 'six', '9'] 2rlxcfoursixczbvb9
+56 ['5', 'four', '9', 'two', '9', '6'] 5fourjxggrtg9bmrlnmmhsgtwo96
+89 ['8', '2', 'four', 'eight', '7', '5', 'nine'] 8nd2foureight7qg5nine
+82 ['8', 'two'] 8twozx
+37 ['3', 'two', 'eight', '8', '7'] rpfmg3twoeight87
+15 ['1', '3', 'five', '5'] 13five5
+19 ['one', '3', '9', 'six', '5', '5', 'nine'] one39six55ninenhhdd
+91 ['9', 'eight', 'nine', 'one'] 9eightnineone
+34 ['3', '2', '1', 'five', 'four'] 321fivefour
+54 ['5', '3', '1', 'seven', '8', '4'] 531sevenhxznfmdxnxfptkbcfpn84xtjrbrmbxk
+56 ['5', '6'] 5tqkzdf6
+75 ['seven', '3', '5', 'five', 'two', 'five'] sevenlnmnzh35fivetwotrbnknfive
+58 ['five', '8'] qjqbcbhlqfive8mfmxdssvtdhq
+37 ['three', 'six', '7'] threesixlxmhgzxxjxrgmxzqprl7
+21 ['2', '4', '8', 'two', 'two', 'one'] 24nnjmxxkbxjmmdssdpb8twotwoone
+97 ['9', 'four', '7'] 9four7
+98 ['9', 'six', '2', '9', 'eight', '8'] 9sixtgj29eight8
+53 ['five', '5', '5', 'eight', '3'] fivebvzrbftvvdzd5nctrmjmbx5eight3
+44 ['4', 'three', 'six', '9', 'four'] 4threedfzlzxfprzqpkzmlnsix9four
+97 ['nine', '9', '9', 'five', '7'] qbqjfbqthxvhnine99five7kgqm
+95 ['nine', 'three', 'three', 'seven', '5'] pdvcpcdvjninethreethreeseven5
+95 ['nine', '3', '2', 'seven', '5'] ninelrsshpxvb32trfrhnnbkseven5
+11 ['1'] 1zktcvtrknt
+59 ['5', '9'] tbxt59dfqzxcdj
+85 ['eight', '6', '2', 'five'] zclzlgcmkneightzskgbg62five
+46 ['4', 'six', '1', 'six', '7', '6'] vlhtm4gsjtcvkkprsix1sixmdkxlgp76
+63 ['six', 'five', 'six', '6', '9', 'three'] vxgmnjsixfivesix69threejlrrcc
+11 ['one', 'five', '5', 'seven', '1', 'one', '1'] onefive5sevenfhvsbfpcxbqn1one1
+25 ['two', '6', '9', '5'] rlxrbhtwobmhfcgnmtg6zlgz95sncg
+66 ['6'] 6tgsl
+19 ['one', '9'] mjsjpone9
+76 ['seven', '5', '6', 'two', '6', '6'] rsqfmseven5qqhrxhfxf6twohnxjgh66
+99 ['nine', 'three', '9'] xbfqgxkxmninegmhcrcmxgllktllbqpsvrfthree9
+23 ['2', 'one', '7', 'five', '3'] 2one7kthlnfive3kq
+65 ['six', 'four', '8', '5'] sixfour8lztglpvfv5
+11 ['1'] bjcrvvglvjn1
+32 ['3', 'one', '4', '2'] 3mlfdone42
+48 ['4', 'one', '5', 'two', 'six', 'eight'] 4one5twoxqfcflcbjqsixeightdlknnzdbzlrqfkhvm
+96 ['9', '5', '6'] cfpnhsgs956
+73 ['7', '3'] xsdm7lhcjzk3hstcf
+99 ['9', 'four', '8', '6', 'four', 'nine'] 9fourcsjph86shfqjrxlfourninev
+88 ['8'] bgcxqff8
+41 ['4', 'eight', '5', '1'] 4eightv51
+61 ['six', '6', 'two', '4', '6', '1'] six6two4lvtjt61
+44 ['4', '4'] 44kmn
+53 ['five', 'five', '3', 'eight', 'three'] rbgfivefive3eightthree
+34 ['three', '4', 'eight', 'four'] three4nhvblteightfour
+24 ['2', 'six', '6', '4'] 2six64rjmcvvxshxjlndj
+32 ['3', 'nine', '4', 'four', '1', '5', '2'] 3nine4fourjclspd152rpv
+54533
