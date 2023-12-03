@@ -1,4 +1,5 @@
 from functools import partial, reduce
+import operator
 from pathlib import Path
 import re
 
@@ -8,28 +9,38 @@ import numpy as np
 def convolute(matrix: np.ndarray):
     matrix = np.pad(matrix, pad_width=1, mode="constant", constant_values=0)
     sums = 0
+    color = -3
     for i, line in enumerate(matrix[1:-1], 1):
         for j, item in enumerate(line[1:-1], 1):
-            if item > 0:
-                matrix[i, j] = -2
-                result = check_item(matrix, i, j, item)
+            if item == -2:
+                c, items = check_item(matrix, i, j, color)
                 print(matrix)
-                sums += result
+                print(c)
+                if len(items) == 2:
+                    sums += reduce(operator.mul, items, 1)
+                color = c
     return sums
 
 
-def check_item(matrix, i, j, item: int):
-    result = 0
+def paint(matrix, i, j, item, color):
+    for y in range(-1, 2):
+        if matrix[i, j + y] == item:
+            matrix[i, j + y] = color
+            paint(matrix, i, j + y, item, color)
+    return color - 1
+
+
+def check_item(matrix, i, j, color: int):
+    items: list[int] = list()
     for x in range(-1, 2):
         for y in range(-1, 2):
             if x == 0 and y == 0:
                 continue
-            if matrix[i, j + y] == item:
-                matrix[i, j + y] = -2
-                result = max(check_item(matrix, i, j+y, item), result)
-            if matrix[i + x, j + y] == -1:
-                result = item
-    return result
+            if matrix[i + x, j + y] > 0:
+                r = int(matrix[i + x, j + y])
+                color = paint(matrix, i + x, j + y, r, color)
+                items.append(r)
+    return color, items
 
 
 def encode_symbol(symbol: str):
@@ -37,6 +48,10 @@ def encode_symbol(symbol: str):
     if symbol == ".":
         return [
             0,
+        ]
+    elif symbol == "*":
+        return [
+            -2,
         ]
     elif r.match(symbol):
         return [
