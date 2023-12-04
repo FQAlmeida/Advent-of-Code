@@ -1,4 +1,3 @@
-from functools import partial
 from pathlib import Path
 import re
 
@@ -8,7 +7,8 @@ if __name__ == "__main__":
     with Path("2023/Day_4/data/input.txt").open() as fd:
         data = fd.readlines()
     sums = 0
-    for line in data:
+    amount = [1]*len(data)
+    for i, line in enumerate(data):
         line = re.sub(r"\ \ ", " ", line)
         card, numbers = line.split(":")
         winners_line, got_line = numbers.strip().split("|")
@@ -20,5 +20,8 @@ if __name__ == "__main__":
         len_winners = len(numbers_got_winner)
         if len_winners == 0:
             continue
-        sums += 2 ** (len(numbers_got_winner) - 1)
-    print(sums)
+        for j in range(i+1, i+1+len_winners):
+            amount[j] += amount[i]
+        print(amount)
+        
+    print(sum(amount))
