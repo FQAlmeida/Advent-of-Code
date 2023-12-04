@@ -22,6 +22,4 @@ if __name__ == "__main__":
             continue
         for j in range(i+1, i+1+len_winners):
             amount[j] += amount[i]
-        print(amount)
-        
     print(sum(amount))
