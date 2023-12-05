@@ -31,12 +31,10 @@ if __name__ == "__main__":
     minimun = inf
     seeds = list(map(int, data[0].strip().split(":")[1].strip().split(" ")))
     data_sepd = list(separate_maps(data[1:]))
-    pprint(data_sepd, width=120, compact=True)
     for seed in seeds:
         origin = seed
         for mapper in data_sepd:
             dest = get_mapped_value(origin, mapper)
-            print(dest)
             origin = dest
         minimun = min(minimun, origin)
     print(minimun)
