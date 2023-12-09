@@ -1,8 +1,6 @@
 from pathlib import Path
 import re
 
-import numpy as np
-
 if __name__ == "__main__":
     with Path("2023/Day_4/data/input.txt").open() as fd:
         data = fd.readlines()
