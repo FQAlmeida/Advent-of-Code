@@ -18,6 +18,6 @@ def fit(readings: list[int]):
 if __name__ == "__main__":
     with Path("2023/Day_9/data/input.txt").open("r") as fd:
         lines = fd.readlines()
-    data = list(map(lambda line: list(map(int, line.strip().split(" "))), lines))
+    data = list(map(lambda line: list(map(int, line.strip().split(" ")[::-1])), lines))
     sums = sum(map(fit, data))
     print(sums)
