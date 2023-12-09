@@ -34,7 +34,7 @@ def get_hand_classification(hand: str):
     if "J" in hand_uniques.keys():
         qtd_j = hand_uniques["J"]
         del hand_uniques["J"]
-        max_key = max(hand_uniques, key=hand_uniques.get, default=0)
+        max_key = max(hand_uniques, key=hand_uniques.get, default=0) # type: ignore
         hand_uniques[max_key] = hand_uniques.get(max_key, 0) + qtd_j
     max_rep = max(hand_uniques.values())
     qtd_unique = len(hand_uniques.keys())
