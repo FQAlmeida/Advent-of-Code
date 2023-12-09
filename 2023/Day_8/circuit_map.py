@@ -5,7 +5,7 @@ from pathlib import Path
 def get_steps_to_z(origin, locs, dirs):
     len_dirs = len(dirs)
     step = 0
-    while not origin.endswith('Z'):
+    while not origin.endswith("Z"):
         next_dir_index = step % len_dirs
         step += 1
         next_dir = dirs[next_dir_index]
@@ -23,5 +23,5 @@ if __name__ == "__main__":
     dists = map(lambda origin: get_steps_to_z(origin, locs, dirs), origins)
     lcm = 1
     for i in dists:
-        lcm = lcm*i //gcd(lcm, i)
+        lcm = lcm * i // gcd(lcm, i)
     print(origins, lcm)
